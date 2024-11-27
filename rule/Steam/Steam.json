@@ -1,0 +1,53 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "steammobile.akamaized.net"
+      ],
+      "domain_keyword": [
+        "steamstore",
+        "steambroadcast",
+        "steamuserimages"
+      ],
+      "domain_suffix": [
+        "fanatical.com",
+        "st.dl.bscstorage.net",
+        "steamgames.com",
+        "cdn-ws.content.steamchina.com",
+        "steamstatic.com",
+        "valvesoftware.com",
+        "humblebundle.com",
+        "steamcdn-a.akamaihd.net",
+        "s.team",
+        "steamstatic.com.8686c.com",
+        "st.dl.pinyuncloud.com",
+        "steamunlocked.net",
+        "steamvideo-a.akamaihd.net",
+        "st.dl.eccdnx.com",
+        "steampipe.akamaized.net",
+        "dota2.wmsj.cn",
+        "csgo.wmsj.cn",
+        "steamusercontent-a.akamaihd.net",
+        "cdn-ali.content.steamchina.com",
+        "steamuserimages-a.akamaihd.net",
+        "steam-api.com",
+        "dl.steam.ksyna.com",
+        "steamstat.us",
+        "steamcommunity-a.akamaihd.net",
+        "steampowered.com",
+        "steamcontent.tnkjmec.com",
+        "steamstore-a.akamaihd.net",
+        "wmsjsteam.com",
+        "steam-chat.com",
+        "underlords.com",
+        "steampowered.com.8686c.com",
+        "steambroadcast.akamaized.net",
+        "playartifact.com",
+        "dl.steam.clngaa.com",
+        "cdn-qc.content.steamchina.com",
+        "steamcommunity.com"
+      ]
+    }
+  ],
+  "version": 2
+}

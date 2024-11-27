@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "japonx",
+        "japronx"
+      ],
+      "domain_suffix": [
+        "japonx.tv",
+        "japonx.vip",
+        "japronx.tv",
+        "japronx.com",
+        "japronx.vip",
+        "japonx.net",
+        "japonx.com",
+        "japronx.net"
+      ]
+    }
+  ],
+  "version": 2
+}
